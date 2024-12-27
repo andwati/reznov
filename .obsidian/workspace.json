@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "077448aa5736c94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0566b4b990c8a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07bbced6fbd5a39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Formal Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formal Methods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93014607eae62bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9edc22da40e1403a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd645524ce56373",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f91558ae08fcd0c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa735fdb232f5bdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "5cbd3999691b8c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9fc43ba1587059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937b489b366f2bd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Theory/Formal Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Formal Methods"
+            }
+          },
+          {
+            "id": "2744cc9c10677d3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Theory/Formal Methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Formal Methods"
+            }
+          },
+          {
+            "id": "53aaebdc85620a8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "077e341b98b0543e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Theory/Formal Methods.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Formal Methods"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07bbced6fbd5a39e",
+  "lastOpenFiles": [
+    "Computer Science/Theory/Lambda Calculus.md",
+    "Computer Science/Theory/Formal Methods.md",
+    "Computer Science/Programming Languages/Go.md",
+    "Computer Science/Programming Languages/Rust.md",
+    "Computer Science/Programming Languages/C.md",
+    "Computer Science/Programming Languages/C++.md",
+    "Welcome.md",
+    "create a link.md",
+    "Untitled.md",
+    "Cognition/Intuition.md",
+    "Cognition/Learning Methods.md",
+    "Cognition",
+    "Mathematics/Calculus",
+    "Mathematics/Linear Algebra",
+    "Computer Science/Distributed Systems",
+    "Computer Science/Databases",
+    "Computer Science/Computer Networking",
+    "Computer Science/Computer Graphics",
+    "Computer Science/Operating Systems/Windows",
+    "Computer Science/Operating Systems/Linux",
+    "Computer Science/Operating Systems"
+  ]
+}
