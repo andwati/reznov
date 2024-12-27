@@ -156,6 +156,20 @@
   },
   "active": "07bbced6fbd5a39e",
   "lastOpenFiles": [
+    "Computer Science/Computer Architecture/Hardware/Memory Models.md",
+    "Computer Science/Computer Architecture/Low Level/System Calls.md",
+    "Computer Science/Computer Architecture/Low Level/Assembly.md",
+    "Computer Science/Computer Architecture/Low Level",
+    "Computer Science/Computer Architecture/Hardware/Floating Point.md",
+    "Computer Science/Computer Architecture/Hardware/Context Switching.md",
+    "Computer Science/Computer Architecture/Hardware/Cache Optimization.md",
+    "Cognition/Productivity.md",
+    "Computer Science/Computer Architecture/Hardware",
+    "Computer Science/AI/Machine Learning/Deep Learning.md",
+    "Computer Science/AI/Machine Learning/Large Language Models.md",
+    "Computer Science/AI/Machine Learning/Neural Networks.md",
+    "Computer Science/AI/Machine Learning",
+    "Computer Science/AI",
     "sync.ps1",
     "Welcome.md",
     "sync.sh",
@@ -173,11 +187,6 @@
     "Cognition/Learning Methods.md",
     "Cognition",
     "Mathematics/Calculus",
-    "Mathematics/Linear Algebra",
-    "Computer Science/Distributed Systems",
-    "Computer Science/Databases",
-    "Computer Science/Computer Networking",
-    "Computer Science/Computer Graphics",
-    "Computer Science/Operating Systems/Windows"
+    "Mathematics/Linear Algebra"
   ]
 }
