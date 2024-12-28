@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "077448aa5736c94e",
+    "id": "3ffb36ed6ed9780f",
     "type": "split",
     "children": [
       {
-        "id": "f0566b4b990c8a85",
+        "id": "f373d8930c767255",
         "type": "tabs",
         "children": [
           {
-            "id": "07bbced6fbd5a39e",
+            "id": "543d0cbbe25a9ebe",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93014607eae62bd5",
+    "id": "cf75457842cb56a2",
     "type": "split",
     "children": [
       {
-        "id": "9edc22da40e1403a",
+        "id": "5df714c425f695a1",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd645524ce56373",
+            "id": "7fdd9fae507f61a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "f91558ae08fcd0c7",
+            "id": "c7bc9cb54ac72567",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "aa735fdb232f5bdb",
+            "id": "fd5238ea2d883a0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,18 +73,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
-    "id": "5cbd3999691b8c4c",
+    "id": "86c7df2d37dabc18",
     "type": "split",
     "children": [
       {
-        "id": "df9fc43ba1587059",
+        "id": "f102d18b7ffe20b2",
         "type": "tabs",
         "children": [
           {
-            "id": "937b489b366f2bd4",
+            "id": "5735fa222422d0b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "2744cc9c10677d3d",
+            "id": "2369704cf1ae3714",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "53aaebdc85620a8f",
+            "id": "efcd0232eb36c025",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +128,7 @@
             }
           },
           {
-            "id": "077e341b98b0543e",
+            "id": "7b542df36a123145",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,52 +154,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07bbced6fbd5a39e",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Computer Science/Computer Architecture/Hardware/Memory Models.md",
-    "Computer Science/Computer Architecture/Low Level/System Calls.md",
-    "Computer Science/Computer Architecture/Low Level/Assembly.md",
-    "Computer Science/Computer Architecture/Low Level",
-    "Computer Science/Computer Architecture/Hardware/Floating Point.md",
-    "Computer Science/Computer Architecture/Hardware/Context Switching.md",
-    "Computer Science/Computer Architecture/Hardware/Cache Optimization.md",
-    "Cognition/Productivity.md",
-    "Computer Science/Computer Architecture/Hardware",
-    "Computer Science/AI/Machine Learning/Deep Learning.md",
-    "Computer Science/AI/Machine Learning/Large Language Models.md",
-    "Computer Science/AI/Machine Learning/Neural Networks.md",
-    "Computer Science/AI/Machine Learning",
-    "Computer Science/AI",
-    "sync.ps1",
-    "Welcome.md",
-=======
->>>>>>> Stashed changes
-    "sync.sh",
-    "README.md",
-    "Computer Science/Theory/Formal Methods.md",
-    "LICENSE",
-    "Computer Science/Theory/Lambda Calculus.md",
-    "Computer Science/Programming Languages/Go.md",
-    "Computer Science/Programming Languages/Rust.md",
-    "Computer Science/Programming Languages/C.md",
-    "Computer Science/Programming Languages/C++.md",
-    "create a link.md",
-    "Untitled.md",
-    "Cognition/Intuition.md",
-    "Cognition/Learning Methods.md",
-    "Cognition",
-    "Mathematics/Calculus",
-<<<<<<< Updated upstream
-    "Mathematics/Linear Algebra"
-=======
-    "Mathematics/Linear Algebra",
-    "Computer Science/Distributed Systems",
-    "Computer Science/Databases",
-    "Computer Science/Computer Networking",
-    "Computer Science/Computer Graphics",
-    "Computer Science/Operating Systems/Windows",
-    "Computer Science/Operating Systems/Linux"
->>>>>>> Stashed changes
-  ]
+  "active": "543d0cbbe25a9ebe",
+  "lastOpenFiles": []
 }
