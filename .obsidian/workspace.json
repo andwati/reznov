@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognition/Productivity.md",
+                "file": "Computer Science/Repo Hosting Services/Bitbucket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Productivity"
+              "title": "Bitbucket"
             }
           }
         ]
@@ -158,18 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "0e5b441f6bb1af2e",
+  "active": "69536311ebe09694",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/C++.md",
+    "Computer Science/Repo Hosting Services/GitLab.md",
+    "Computer Science/Repo Hosting Services/Bitbucket.md",
+    "Computer Science/Repo Hosting Services/GitHub.md",
+    "Computer Science/Version Control Systems/Git.md",
+    "Computer Science/Repo Hosting Services",
+    "Computer Science/Programming Languages/Typescript.md",
+    "Computer Science/Programming Languages/Untitled.md",
+    "Computer Science/Internet/Untitled.md",
+    "Computer Science/Programming Languages/Untitled.md.partial",
+    "Computer Science/Internet/Untitled.md.partial",
+    "Computer Science/Version Control Systems",
+    "Computer Science/Programming Languages/JavaScript.md",
+    "Computer Science/Internet/What is hosting.md",
+    "Computer Science/Internet/What is Domain Name.md",
+    "Computer Science/Internet/DNS and how it works.md",
+    "Computer Science/Internet/Browsers and how they work.md",
+    "Computer Science/Internet/What is HTTP.md",
+    "Computer Science/Internet/How does the internet work.md",
+    "Cognition/Kaizen.md",
+    "Computer Science/Internet",
+    "Cognition/Untitled.md",
+    "Cognition/Untitled.md.partial",
+    "Computer Science/Programming Languages/C++/C++.md",
+    "Computer Science/Programming Languages/C++",
+    "Computer Science/Programming Languages/C.md",
+    "Cognition/Productivity.md",
     "Computer Science/AI/Machine Learning/Neural Networks.md",
     "Computer Science/AI/Machine Learning/Large Language Models.md",
     "Computer Science/AI/Machine Learning/Deep Learning.md",
     "Computer Science/AI/Machine Learning",
     "Computer Science/AI",
-=======
-  "active": "69536311ebe09694",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
     "Cognition/Learning Methods.md",
     "Cognition/Intuition.md",
     "Computer Science/Data Science and Machine Learning"
