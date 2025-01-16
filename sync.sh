@@ -16,7 +16,6 @@ if [ -z "$COMMIT_MESSAGE" ]; then
     COMMIT_MESSAGE=$(date '+%Y-%m-%d %H:%M:%S')
 fi
 
-COMMIT_MESSAGE=$(date '+%Y-%m-%d %H:%M:%S')
 git add .
 git commit -m "$COMMIT_MESSAGE" || echo "Nothing to commit."
 git push origin main || echo "Git push failed!"
