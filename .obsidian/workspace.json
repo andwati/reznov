@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "077448aa5736c94e",
+    "id": "03c8a51b69fce20e",
     "type": "split",
     "children": [
       {
-        "id": "f0566b4b990c8a85",
+        "id": "7cb1cd2dfabc5799",
         "type": "tabs",
         "children": [
           {
-            "id": "07bbced6fbd5a39e",
+            "id": "69536311ebe09694",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cognition/Productivity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Productivity"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "93014607eae62bd5",
+    "id": "c7822e97aaa3954d",
     "type": "split",
     "children": [
       {
-        "id": "9edc22da40e1403a",
+        "id": "247c5c648303d5d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd645524ce56373",
+            "id": "0e5b441f6bb1af2e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +47,7 @@
             }
           },
           {
-            "id": "f91558ae08fcd0c7",
+            "id": "6f327ef23937a94a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "aa735fdb232f5bdb",
+            "id": "a285f56418385960",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,18 +77,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
-    "id": "5cbd3999691b8c4c",
+    "id": "2a67d7ead1c348f1",
     "type": "split",
     "children": [
       {
-        "id": "df9fc43ba1587059",
+        "id": "54a5286e1ca62611",
         "type": "tabs",
         "children": [
           {
-            "id": "937b489b366f2bd4",
+            "id": "3ec4dc03a1501d1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +106,7 @@
             }
           },
           {
-            "id": "2744cc9c10677d3d",
+            "id": "5c90deba1c8c2d48",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +119,7 @@
             }
           },
           {
-            "id": "53aaebdc85620a8f",
+            "id": "24575b59963f6aa8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +132,7 @@
             }
           },
           {
-            "id": "077e341b98b0543e",
+            "id": "dfe5ae321a3edae8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,52 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07bbced6fbd5a39e",
+  "active": "0e5b441f6bb1af2e",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Computer Science/Computer Architecture/Hardware/Memory Models.md",
-    "Computer Science/Computer Architecture/Low Level/System Calls.md",
-    "Computer Science/Computer Architecture/Low Level/Assembly.md",
-    "Computer Science/Computer Architecture/Low Level",
-    "Computer Science/Computer Architecture/Hardware/Floating Point.md",
-    "Computer Science/Computer Architecture/Hardware/Context Switching.md",
-    "Computer Science/Computer Architecture/Hardware/Cache Optimization.md",
-    "Cognition/Productivity.md",
-    "Computer Science/Computer Architecture/Hardware",
-    "Computer Science/AI/Machine Learning/Deep Learning.md",
-    "Computer Science/AI/Machine Learning/Large Language Models.md",
     "Computer Science/AI/Machine Learning/Neural Networks.md",
+    "Computer Science/AI/Machine Learning/Large Language Models.md",
+    "Computer Science/AI/Machine Learning/Deep Learning.md",
     "Computer Science/AI/Machine Learning",
     "Computer Science/AI",
-    "sync.ps1",
-    "Welcome.md",
-=======
->>>>>>> Stashed changes
-    "sync.sh",
-    "README.md",
-    "Computer Science/Theory/Formal Methods.md",
-    "LICENSE",
-    "Computer Science/Theory/Lambda Calculus.md",
-    "Computer Science/Programming Languages/Go.md",
-    "Computer Science/Programming Languages/Rust.md",
-    "Computer Science/Programming Languages/C.md",
-    "Computer Science/Programming Languages/C++.md",
-    "create a link.md",
-    "Untitled.md",
-    "Cognition/Intuition.md",
     "Cognition/Learning Methods.md",
-    "Cognition",
-    "Mathematics/Calculus",
-<<<<<<< Updated upstream
-    "Mathematics/Linear Algebra"
-=======
-    "Mathematics/Linear Algebra",
-    "Computer Science/Distributed Systems",
-    "Computer Science/Databases",
-    "Computer Science/Computer Networking",
-    "Computer Science/Computer Graphics",
-    "Computer Science/Operating Systems/Windows",
-    "Computer Science/Operating Systems/Linux"
->>>>>>> Stashed changes
+    "Cognition/Intuition.md",
+    "Computer Science/Data Science and Machine Learning"
   ]
 }
