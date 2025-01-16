@@ -158,6 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0e5b441f6bb1af2e",
   "lastOpenFiles": [
     "Computer Science/AI/Machine Learning/Neural Networks.md",
@@ -165,6 +166,10 @@
     "Computer Science/AI/Machine Learning/Deep Learning.md",
     "Computer Science/AI/Machine Learning",
     "Computer Science/AI",
+=======
+  "active": "69536311ebe09694",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Cognition/Learning Methods.md",
     "Cognition/Intuition.md",
     "Computer Science/Data Science and Machine Learning"
