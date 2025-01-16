@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Kaizen",
+    "Kaizen"
+  ]
 }
