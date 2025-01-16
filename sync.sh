@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# cron job
+# 0 9,21 * * * /bin/bash /home/ian/OneDrive/reznov/reznov/sync.sh 2>&1 | while IFS= read -r line; do echo "$(date '+%Y-%m-%d %H:%M:%S') $line"; done >> /home/ian/OneDrive/reznov/sync.log
+
+
 REPO_PATH="/home/ian/OneDrive/reznov/reznov/"
 cd "$REPO_PATH" || { echo "Repository path not found! Exiting."; exit 1; }
 git stash
