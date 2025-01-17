@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Repo Hosting Services/Bitbucket.md",
+                "file": "Computer Science/Operating Systems/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bitbucket"
+              "title": "Untitled"
             }
           }
         ]
@@ -160,12 +160,15 @@
   },
   "active": "69536311ebe09694",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Computer Science/Programming Languages/C++.md",
-=======
->>>>>>> Stashed changes
-    "Computer Science/Repo Hosting Services/GitLab.md",
+    "Computer Science/Operating Systems/Interprocess Communication.md",
+    "Computer Science/Operating Systems/Untitled.md",
+    "Computer Science/Operating Systems/Memory management.md",
+    "Computer Science/Operating Systems/Linux/Terminal commands.md",
+    "Computer Science/Operating Systems/POSIX Basics/posix.md",
     "Computer Science/Repo Hosting Services/Bitbucket.md",
+    "Computer Science/Operating Systems/POSIX Basics",
+    "Computer Science/Programming Languages/C++.md",
+    "Computer Science/Repo Hosting Services/GitLab.md",
     "Computer Science/Repo Hosting Services/GitHub.md",
     "Computer Science/Version Control Systems/Git.md",
     "Computer Science/Repo Hosting Services",
@@ -191,12 +194,7 @@
     "Computer Science/Programming Languages/C.md",
     "Cognition/Productivity.md",
     "Computer Science/AI/Machine Learning/Neural Networks.md",
-    "Computer Science/AI/Machine Learning/Large Language Models.md",
-    "Computer Science/AI/Machine Learning/Deep Learning.md",
     "Computer Science/AI/Machine Learning",
-    "Computer Science/AI",
-    "Cognition/Learning Methods.md",
-    "Cognition/Intuition.md",
-    "Computer Science/Data Science and Machine Learning"
+    "Computer Science/AI"
   ]
 }
